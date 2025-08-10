@@ -1,6 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/scripts/main/south_bronx_money.lua"))()
-
--- Alternative: Direct loadstring version (copy this entire block)
 loadstring([[
 -- South Bronx The Trenches - Max Money Script
 -- Loadstring: Copy and paste this entire script into an executor
@@ -113,5 +110,5 @@ spawn(function()
 end)
 
 print("💰 Script loaded! Money should now be at maximum!")
-print("💡 If it doesn't work immediately, wait a few seconds for the game to load completely.")
+print("�� If it doesn't work immediately, wait a few seconds for the game to load completely.")
 ]])()
